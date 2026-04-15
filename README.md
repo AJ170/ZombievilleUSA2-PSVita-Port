@@ -1,5 +1,5 @@
 ## Zombieville USA 2 PSVita Port
-#Instructions:
+# Instructions:
 
 1) Install "Zombieville_USA_2_v1.00-Loader.vpk" to your PSVita
 2) download "xdelta-patch.zip"
