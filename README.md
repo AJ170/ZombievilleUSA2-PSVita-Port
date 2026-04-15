@@ -13,12 +13,12 @@ only public co-op works and its cross play, one person creates a lobby (press pu
 
 
 ## Controls:
-Weapon 1 - Cross, L
-Weapon 2 - Circle, R
-Weapon 3 - Square
-Start - Pause
-Move Character - Left Analog Stick
-In-game Mouse Cursor - Left Analog Stick
+- Weapon 1 - Cross, L
+- Weapon 2 - Circle, R
+- Weapon 3 - Square
+- Start - Pause
+- Move Character - Left Analog Stick
+- In-game Mouse Cursor - Left Analog Stick
 
 
 ## Credits
