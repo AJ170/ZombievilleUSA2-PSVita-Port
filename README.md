@@ -6,7 +6,7 @@
 3) unzip and copy contents to an empty folder
 4) run "ApplyPatch.bat"
 5) unzip the newly created "Media.zip"
-6) copy the "Media" folder you extracted to "ux0:\app\TLCK42069" on your PSVita using USB or ftp
+6) copy the "Media" folder you extracted to "ux0:\app\ZUSA42069" on your PSVita using USB or ftp
 
 ## Multiplayer
 only public co-op works and its cross play, one person creates a lobby (press public), the other automatically joins it when pressing public after host starts hosting match (vita hosting takes a good 60 seconds to start)
