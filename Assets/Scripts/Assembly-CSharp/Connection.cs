@@ -39,7 +39,7 @@ public class Connection : Photon.MonoBehaviour
 
 	private bool hitPublic;
 
-	private TouchScreenKeyboard myKeyboard;
+	private VitaKeyboard myKeyboard;
 
 	private bool joinedRoom;
 
@@ -203,7 +203,7 @@ public class Connection : Photon.MonoBehaviour
 		{
 			waitingForPassword = true;
 			noticeText.text = "Choose a Room to Create/Join";
-			myKeyboard = TouchScreenKeyboard.Open(password, TouchScreenKeyboardType.Default, false, false, false, false, "Room Name to Create/Join");
+			myKeyboard = VitaKeyboard.Open(password, "Room Name to Create/Join", 32);
 		}
 		else
 		{

@@ -494,7 +494,7 @@ PlayerSettings:
   ps4attribEyeToEyeDistanceSettingVR: 0
   ps4IncludedModules: []
   monoEnv: 
-  psp2Splashimage: {fileID: 2800000, guid: 54a0aa3245c9db24d94e54e0484d3b87, type: 3}
+  psp2Splashimage: {fileID: 2800000, guid: 33489e3cda180be4e81c7a999875d10b, type: 3}
   psp2NPTrophyPackPath: 
   psp2NPSupportGBMorGJP: 0
   psp2NPAgeRating: 12
@@ -505,8 +505,8 @@ PlayerSettings:
   psp2NPCommsSig: 
   psp2ParamSfxPath: 
   psp2ManualPath: 
-  psp2LiveAreaGatePath: Assets/app_icon.png
-  psp2LiveAreaBackroundPath: Assets/2619106_jetluvzram3n_zombieville-usa.png
+  psp2LiveAreaGatePath: Assets/livearea/contents/startup.png
+  psp2LiveAreaBackroundPath: Assets/livearea/contents/bg.png
   psp2LiveAreaPath: 
   psp2LiveAreaTrialPath: 
   psp2PatchChangeInfoPath: 

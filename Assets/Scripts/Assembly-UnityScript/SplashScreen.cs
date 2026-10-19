@@ -1,5 +1,7 @@
 using System;
 using UnityEngine;
+using System.Globalization;
+using System.Threading;
 
 [Serializable]
 public class SplashScreen : MonoBehaviour
@@ -12,6 +14,8 @@ public class SplashScreen : MonoBehaviour
 
 	public virtual void Awake()
 	{
+		System.Threading.Thread.CurrentThread.CurrentCulture = System.Globalization.CultureInfo.InvariantCulture;
+		
 		if ((Screen.height == 768 && Screen.width == 1024) || (Screen.height == 1536 && Screen.width == 2048))
 		{
 			theCam.orthographicSize = 8f;
